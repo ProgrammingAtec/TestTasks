@@ -1,5 +1,7 @@
 # chingiz
 
+## не хватает node_modules с дефолтными настройками
+
 ## Project setup
 ```
 npm install
