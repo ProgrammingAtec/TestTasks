@@ -1,6 +1,6 @@
-# chingiz
+# chingiz (TestTask)
 
-## не хватает node_modules с дефолтными настройками
+My second attempt to get a job
 
 ## Project setup
 ```
